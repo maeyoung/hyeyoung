@@ -1,0 +1,28 @@
+div{margin:10 20 30 40;
+    padding:10 20 30 40;
+    font-weight:bold;}
+div.a{
+    color:yellow;
+    font-size: 24px;
+    font-family:;
+    background-color:plum;
+    text-align: center;
+    border:5px greenyellow dotted;
+    }
+
+div.b{
+    color:hotpink;
+    font-size: 24px;
+    background-color:lightskyblue;
+    text-align: center;
+    border: 10px dotted yellow;
+    }
+
+div.c{
+    color:white;
+    font-size: 24px;
+    background-color:pink;
+    text-align: center;
+    border: 10px solid mediumpurple;
+    }
+img{float:left;}

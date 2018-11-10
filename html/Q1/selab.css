@@ -1,0 +1,101 @@
+/* specification 2a (write appropriate selector) */
+@font-face {
+    font-family: prime;
+    src: url(font/PrimeRegular.otf);
+}
+
+
+
+
+/* specification 2a & 2b */
+body {background-color: #00ABD9;
+    font-family : prime;
+}
+
+
+
+
+/* specification 3a & 3b */
+#page {margin:auto;width: 950px;
+    background-color: white;
+    border-bottom: 5px solid black;}
+
+
+
+
+
+
+/* specification 4a 4b (write appropriate selector) */
+nav{list-style-type: none;
+    text-align : center;
+    
+    }
+
+
+
+
+
+
+
+/* specification 4a 4c (write appropriate selector) */
+nav li{display: inline;
+    line-height: 2em;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    }
+
+
+
+
+
+/* specification 4b (write appropriate selector) */
+nav a{
+    text-decoration: none;
+    color:#A690AF
+}
+
+
+
+/* specification 5a (write appropriate selector) */
+article{margin-left: 1.5em;
+        margin-right:1.5em;}
+
+
+
+
+/* specification 5b (write appropriate selector) */
+article h1, h2, h3, h4, h5, h6{
+    color : #00ABD9;
+    text-decoration-line: underline;
+}
+
+
+
+
+/* specification 6 */
+.mid {text-align: center;}
+.mid h2{text-align: left;}
+
+
+
+/* specification 7a, 7b, 7c, 7d, and 7e */
+#joinSE {
+    float:right;
+    font-size:190%;
+    font-weight: bold;
+    background-color: #8BCBE3;
+    margin : 1em;
+    padding : 0.75em
+}
+
+
+
+
+
+
+
+
+/* extra mark : 
+ * examine 'screenshot.png' and find out which style is still not specified in CSS 
+ * & create and apply an associated rule */ 
+ 
